@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PDDL Project Generator",
+  "description": "A web application that uses the Gemini API to generate a complete classical planning project for a Robot Delivery scenario, including PDDL domain and problem files, a project report, and sample planner output.",
+  "requestFramePermissions": []
+}
